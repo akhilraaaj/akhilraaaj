@@ -30,7 +30,6 @@
 
 <!--START_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilraaaj" alt="akhilraaaj" /></a> </p>
 
