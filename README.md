@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/akhilraaaj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/akhilraaaj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ## ⚡**TechStack:**
@@ -17,6 +17,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="40" src="https://img.icons8.com/fluency/2x/node-js.png"></code>
+<code><img height="40" src="https://img.icons8.com/ios/2x/jquery.png"></code>
+<code><img height="40" src="https://img.icons8.com/material-outlined/2x/github.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/2x/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg"></code>
@@ -42,7 +46,7 @@
 
 
 ---
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Cyblogerz's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=akhilraaaj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Akhil's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=akhilraaaj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
  <h2 align="center">📫 Reach out to me on</h2>
