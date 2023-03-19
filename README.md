@@ -1,4 +1,4 @@
- <h1 align="center">Hey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/waving-hand_1f44b.png" width="28"/> , I am  Akhil Raj! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/red-heart_2764-fe0f.png" width="28"/></h1>
+ <h1 align="center">Hey <img src="https://em-content.zobj.net/thumbs/160/apple/325/waving-hand_1f44b.png" width="28"/> , I am  Akhil Raj! <img src="https://em-content.zobj.net/thumbs/160/apple/325/technologist_1f9d1-200d-1f4bb.png" width="28"/></h1>
 
 
 
