@@ -18,13 +18,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://img.icons8.com/fluency/2x/node-js.png"></code>
-<code><img height="40" src="https://img.icons8.com/ios/2x/jquery.png"></code>
-<code><img height="40" src="https://img.icons8.com/material-outlined/2x/github.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"></code>
+<code><img height="40" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/2x/git.png"></code>
+<code><img height="40" src="https://ijs.gallerycdn.vsassets.io/extensions/ijs/reactnextjssnippets/1.6.0/1604011628777/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png"></code>
+<code><img height="40" src="https://www.commusoft.co.uk/wp-content/uploads/2021/12/Stripe-integration-logo-hexagon.png"></code>
 
 <br>
 <br>
