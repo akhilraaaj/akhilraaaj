@@ -29,8 +29,6 @@
 <code><img height="40" src="https://www.commusoft.co.uk/wp-content/uploads/2021/12/Stripe-integration-logo-hexagon.png"></code>
 
 <br>
-<br>
-
 
 ---
 
