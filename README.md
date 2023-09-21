@@ -35,10 +35,10 @@
 ---
 
 <!--START_SECTION:waka-->
-
-
+## **Github stats:**
+<p align="center">
 <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilraaaj&layout=compact&theme=buefy&hide_border=true" /></a> 
-
+</p>
 
 <!--END_SECTION:waka-->
 
@@ -52,6 +52,8 @@
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
+    <a href="https://www.linkedin.com/in/akhilraaaj/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
     <a href="mailto:akhilraaaj7@gmail.com?subject=Hey%20Akhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
