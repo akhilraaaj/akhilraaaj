@@ -37,7 +37,6 @@
 <!--START_SECTION:waka-->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilraaaj" alt="akhilraaaj" /></a> </p>
 <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilraaaj&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
