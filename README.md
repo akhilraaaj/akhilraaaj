@@ -6,7 +6,7 @@
   <a href="https://github.com/akhilraaaj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## ⚡**TechStack:**
+## <h2>**TechStack** <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" height="22" width="22"/></h2>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
@@ -32,7 +32,7 @@
 ---
 
 <!--START_SECTION:waka-->
-## **Github stats:**
+## <h2>**Github stats** <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" height="22" width="22"/></h2>
 <p align="center">
 <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilraaaj&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
