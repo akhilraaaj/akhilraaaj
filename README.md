@@ -77,7 +77,7 @@
 ## <h2><img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" height="25" width="25"/> **Github stats**</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilraaaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilraaaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=light&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <!--END_SECTION:waka-->
