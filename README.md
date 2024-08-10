@@ -6,7 +6,7 @@
   <a href="https://github.com/akhilraaaj"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Coding%20Enthusiast;Full%20Stack%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## <h2>**TechStack** <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" height="25" width="25"/></h2>
+## <h2><img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" height="25" width="25"/> **TechStack**</h2>
 <div>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -62,7 +62,7 @@
 ###
 
 
-<h2>My Stats <img src="https://em-content.zobj.net/source/apple/391/fire_1f525.png" height="25" width="25"></h2>
+<h2><img src="https://em-content.zobj.net/source/apple/391/fire_1f525.png" height="25" width="25"> My Stats</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 
 <!--START_SECTION:waka-->
-## <h2>**Github stats** <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" height="25" width="25"/></h2>
+## <h2><img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" height="25" width="25"/> **Github stats**</h2>
 <p align="center">
 <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/akhilraaaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilraaaj&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
