@@ -59,29 +59,6 @@
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
-###
-
-
-<h2><img src="https://em-content.zobj.net/source/apple/391/fire_1f525.png" height="25" width="25"> My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilraaaj" alt="GitHub Streak" />
-</div>
-
-###
-
-
-<!--START_SECTION:waka-->
-## <h2><img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" height="25" width="25"/> **Github stats**</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilraaaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilraaaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=light&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<!--END_SECTION:waka-->
-
 
   <br/>
 
