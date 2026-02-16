@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B637&width=435&lines=Hey%2C+I'm+Akhil+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Tech+%26+Product+Enthusiast">
-  <img alt="Hey, I'm Akhil 👋" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F0F6FC&width=435&lines=Hey%2C+I'm+Akhil+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Tech+%26+Product+Enthusiast">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4AF626&width=435&lines=Hey%2C+I'm+Akhil+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Tech+%26+Product+Enthusiast">
+  <img alt="Hey, I'm Akhil 👋" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4AF626&width=435&lines=Hey%2C+I'm+Akhil+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Tech+%26+Product+Enthusiast">
 </picture>  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://akhilraaaj.xyz/)
